@@ -94,3 +94,27 @@ Time-series econometrics
 
 Jonas Engdahl  
 MSc Economics — Stockholm University
+
+## Selected Results
+
+### Time-Varying Policy Coefficients
+
+![TVP coefficients](figures/tvp_coefficients_regimes.png)
+
+Estimated time-varying coefficients of the Taylor rule. Shaded areas indicate different monetary policy regimes.
+
+---
+
+### Response to Inflation Expectations
+
+![Expectations coefficient](figures/tvp_beta_zoom.png)
+
+Zoomed view of the time-varying coefficient on inflation expectations.
+
+---
+
+### Model Fit: Implied vs Actual Repo Rate
+
+![Repo rate fit](figures/tvp_fit_repo.png)
+
+Comparison between the model-implied policy rate and the observed repo rate.
