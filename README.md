@@ -52,7 +52,8 @@ The model is estimated using **maximum likelihood with the Kalman filter and fix
 
 ---
 
-# Project Structure
+## Repository Structure
+
 
 R/
 00_setup.R
